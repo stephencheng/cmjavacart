@@ -28,8 +28,8 @@ Subscribes:
     Type: ENV:*
     Required: false
 Scaling:
-  Min: 1
-  Max: 10
+  Min: 3
+  Max: 8
 Group-Overrides:
 - components:
   - web-proxy
